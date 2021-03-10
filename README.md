@@ -6,7 +6,7 @@ The aim of this project is to develop a price, demand forecasting model by focus
 sources and examining the day-ahead electricity generation and output of these renewable energy sources
 by taking into account the changeable weather conditions.
 
-** We will be tackling this problem as a time series analysis forecasting **
+**We will be tackling this problem as a time series analysis forecasting**
 
 
 
